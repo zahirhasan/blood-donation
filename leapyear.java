@@ -23,10 +23,10 @@ public class leapyear(){
             System.out.println(year + " is not a leap year.");
 
 
-            gretting("git");
+            display();
     }
 
-    public static void gretting(String name){
-        System.out.println(name);
+    public static void display(){
+        System.out.println("Hello Hello");
     }
 }
