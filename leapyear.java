@@ -29,4 +29,8 @@ public class leapyear(){
     public static void gretting(String name){
         System.out.println(name);
     }
+
+    public static int sqr(int x) {
+        return x*x
+    }
 }
