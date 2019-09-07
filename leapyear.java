@@ -21,5 +21,12 @@ public class leapyear(){
             System.out.println(year + " is a leap year.");
         else
             System.out.println(year + " is not a leap year.");
+
+
+            gretting("ashad");
+    }
+
+    public static void gretting(String name){
+        System.out.println(name);
     }
 }
